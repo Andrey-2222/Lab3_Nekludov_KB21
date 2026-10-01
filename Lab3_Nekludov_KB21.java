@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Lab3_Nekludov_KB21 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
